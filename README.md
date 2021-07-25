@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @MichaelHsiehGY. I'm an electronic engineer and a programmer.
-- 👀 I’m a coding lover and fond of electronic knowledge.
-- 🌱 I’m currently learning machine learning.
+- 👋 Hi, I’m @MichaelHsiehGY. I'm an electronic engineer and a programmer working in telecomnication industry.
+- 👀 I’m a coding lover and fond of electronic knowledges.
 - 📫 reach me by linkdin url: http://linkedin.com/in/michael-hsieh-545a0b125
 
 <!---
